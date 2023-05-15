@@ -1,0 +1,23 @@
+@import './base.css';
+@import 'bootstrap';
+
+.clamp-text-3 {
+    display: -webkit-box;
+    -webkit-line-clamp: 3; /* Specify the number of lines to clamp */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.btn, .card, .card-header {
+  border-radius: 0;
+}
+
+.required:after {
+  content:" *";
+  color: red;
+}
+
+.heading {
+  border-bottom: 4px solid #efefef;
+}
