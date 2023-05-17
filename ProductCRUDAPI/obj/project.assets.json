@@ -3911,11 +3911,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\Joseh\\VueDotnetCRUD\\ProductCRUDAPI\\ProductCRUDAPI.csproj",
+      "projectUniqueName": "C:\\Dev\\Joseh\\VueDotnetCRUD\\ecommerce-products\\ProductCRUDAPI\\ProductCRUDAPI.csproj",
       "projectName": "ProductCRUDAPI",
-      "projectPath": "C:\\Dev\\Joseh\\VueDotnetCRUD\\ProductCRUDAPI\\ProductCRUDAPI.csproj",
+      "projectPath": "C:\\Dev\\Joseh\\VueDotnetCRUD\\ecommerce-products\\ProductCRUDAPI\\ProductCRUDAPI.csproj",
       "packagesPath": "C:\\Users\\JosephMukunga\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\Joseh\\VueDotnetCRUD\\ProductCRUDAPI\\obj\\",
+      "outputPath": "C:\\Dev\\Joseh\\VueDotnetCRUD\\ecommerce-products\\ProductCRUDAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JosephMukunga\\AppData\\Roaming\\NuGet\\NuGet.Config",

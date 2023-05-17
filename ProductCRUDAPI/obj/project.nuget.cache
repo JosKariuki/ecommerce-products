@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IuRkkYkk/akOlqmUwX2FNdfCMnkS3wuF2ihm4+K6UP/Mu+nQqR5FAprvOSVYSbsi5twvtJM5p9GEtvnPHc4EVA==",
+  "dgSpecHash": "ZWhFvIOqDC6QUZ+/2Zqenak6GkjMDENPufkQlprWmY4esuq1drLxzPZGqmH+f9FZtBGW3FszaY8CPLjZS6Qa8g==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\Joseh\\VueDotnetCRUD\\ProductCRUDAPI\\ProductCRUDAPI.csproj",
+  "projectFilePath": "C:\\Dev\\Joseh\\VueDotnetCRUD\\ecommerce-products\\ProductCRUDAPI\\ProductCRUDAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JosephMukunga\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\JosephMukunga\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
